@@ -1,0 +1,14 @@
+@import "../libs/css/reset";
+@import "vars";
+@import "fonts";
+@import "global";
+
+.main {
+
+  &__box {
+    color: aqua;
+  }
+}
+
+
+@import "media";
